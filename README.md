@@ -6,7 +6,7 @@ I'm interested in signal processing, machine learning and IoT systems: getting d
 
 ## Diploma thesis
 
-**[Classification of Underwater Acoustic Signals from Vessels](https://hdl.handle.net/10889/31407)** · supervisor: Prof. Emer. Ioannis Mourjopoulos · defended February 2026 · in Greek, with an extended English summary
+**[Classification of Underwater Acoustic Signals from Vessels](https://hdl.handle.net/10889/31407)** · supervisor: Prof. Emer. John Mourjopoulos · defended February 2026 · in Greek, with an extended English summary
 
 Classified ship-radiated noise from the DeepShip dataset (47 h of hydrophone recordings, 265 vessels) into four vessel types and ambient noise. The features are two-stage statistics over the STFT magnitude, computed along time and along frequency, reduced from 98 to 18 with correlation and feature-importance (MDI) analysis. They feed a tuned Gradient Boosting classifier, evaluated with a recording-level train/test split. Modelling noise as its own class, instead of discarding noisy segments, raised test accuracy from 0.57 to 0.81.
 
