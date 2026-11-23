@@ -1,4 +1,4 @@
-# Hi, I'm Anastasis
+# Hi, I'm Anastasios
 
 Electrical and Computer Engineering graduate (5-year integrated master's) from the University of Patras, Greece.
 
@@ -18,6 +18,3 @@ Classified ship-radiated noise from the DeepShip dataset (47 h of hydrophone rec
 
 Python · NumPy/SciPy · scikit-learn · pandas · MATLAB · C/C++ (Arduino, ESP32) · Flask · SQLAlchemy · MQTT · FIWARE Orion · InfluxDB · Grafana · Docker · Git · Linux
 
-## Open to
-
-PhD positions and roles in signal processing, machine learning and IoT.
